@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5796a15d.css",
+    "main.js": "/static/js/main.5f9bd043.js",
+    "static/media/hotel.jpg": "/static/media/hotel.a324d438d61d6a7e56a3.jpg",
+    "static/media/flightimg.png": "/static/media/flightimg.c1d8a2b536f4434c340f.png",
+    "static/media/dem.jpg": "/static/media/dem.7148bfe98bbe59db6f0e.jpg",
+    "static/media/fotterimg1.jpg": "/static/media/fotterimg1.99c9ad4da7c5d23b6b05.jpg",
+    "static/media/footerimge.jpg": "/static/media/footerimge.e2251b2fd123aad1bc34.jpg",
+    "static/media/dem2.jpg": "/static/media/dem2.413224d2431fd7d0f4f1.jpg",
+    "static/media/dem3.jpg": "/static/media/dem3.6984296518959afa36a9.jpg",
+    "static/media/footerimg2.jpg": "/static/media/footerimg2.1b607753a9fbb1498b21.jpg",
+    "static/media/footerimg3.jpg": "/static/media/footerimg3.e50b967da4b0696e5785.jpg",
+    "static/media/dem1.jpg": "/static/media/dem1.c003d71b5bc4181a5cca.jpg",
+    "static/media/logo.png": "/static/media/logo.df218c6c380cb97e4341.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.5796a15d.css.map": "/static/css/main.5796a15d.css.map",
+    "main.5f9bd043.js.map": "/static/js/main.5f9bd043.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5796a15d.css",
+    "static/js/main.5f9bd043.js"
+  ]
+}
